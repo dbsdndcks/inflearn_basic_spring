@@ -1,6 +1,6 @@
 package hello.core.beanfind;
 
-import hello.core.config.AppConfig;
+import hello.core.AppConfig;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.config.BeanDefinition;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
